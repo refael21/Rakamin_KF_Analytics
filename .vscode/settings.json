@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "rakamin_kf_analytics",
+            "group": "rakamin",
+            "database": "${workspaceFolder:Rakamin_KF_Analytics}/data/db/analysis.db"
+        }
+    ]
+}
